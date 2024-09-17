@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head> 
+    <meta charset="utf-8" />
+<script>
+var LHCChatOptions = {};
+LHCChatOptions.opt = {"widget_height":340,"widget_width":300,"popup_height":520,"popup_width":500,"domain":"https:\/\/dff.gpinfotechdev.com"};
+LHCChatOptions.attr_prefill = {};
+(function() {
+  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+  var referrer = (document.referrer) ? encodeURIComponent(document.referrer.substr(document.referrer.indexOf('://')+1)) : '';
+  var location  = (document.location) ? encodeURIComponent(window.location.href.substring(window.location.protocol.length)) : '';
+  po.src = '//dffe.livehelperchat.com/index.php/chat/getstatus/(position)/bottom_right/(hide_offline)/true/(top)/500/(units)/pixels/(disable_pro_active)/true?r='+referrer+'&l='+location;
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32253026-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-32253026-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});</script>
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/fco.png" type="image/png" />
+<link rel="canonical" href="https://www.dffe.gov.za/national-waste-management-summit" />
+<link rel="shortlink" href="https://www.dffe.gov.za/node/1191" />
+
+    <title>National Waste Management Summit | Department of Environmental Affairs</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?sgvart" />
+<link rel="stylesheet" media="all" href="/modules/gavias_sliderlayer/vendor/revolution/css/settings.css?sgvart" />
+<link rel="stylesheet" media="all" href="/modules/gavias_pagebuilder/assets/frontend/css/frontend.css?sgvart" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/css/sliderlayer.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/css/font-awesome/css/all.min.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/css/icon.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/css/animate.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/vendor/owl-carousel/assets/owl.carousel.min.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/vendor/owl-carousel/assets/owl.theme.default.min.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/vendor/prettyphoto/css/prettyPhoto.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/vendor/ytplayer/css/jquery.mb.YTPlayer.min.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/vendor/magnific/magnific-popup.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/vendor/slick/slick.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/css/bootstrap.css?sgvart" />
+<link rel="stylesheet" media="all" href="/themes/gavias_nextin/css/template.css?sgvart" />
+
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1191","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-32253026-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"f66213986e5c599531b29d9b202b088bb2a3bd19878479e4f28c38c0d253d7a9"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.5.10"></script>
+<script src="/core/misc/drupal.js?v=9.5.10"></script>
+<script src="/core/misc/drupal.init.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/jquery-migrate.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/js/bootstrap.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/js/imagesloader.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/jquery.easing.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/jquery.appear.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/jquery.easypiechart.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/owl-carousel/owl.carousel.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/waypoint.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/count-to.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/masonry.pkgd.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/isotope.pkgd.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/aos.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/prettyphoto/js/jquery.prettyPhoto.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/ytplayer/js/jquery.mb.YTPlayer.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/jquery.typer/src/jquery.typer.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/magnific/jquery.magnific-popup.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/quotes_rotator/js/modernizr.custom.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/quotes_rotator/js/jquery.cbpQTRotator.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/jquery.nicescroll.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/vendor/slick/slick.min.js?v=9.5.10"></script>
+<script src="/themes/gavias_nextin/js/main.js?v=9.5.10"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/jquery.themepunch.tools.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/jquery.themepunch.revolution.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.actions.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.carousel.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.kenburn.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.layeranimation.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.migration.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.navigation.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.parallax.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.slideanims.min.js?v=1.x"></script>
+<script src="/modules/gavias_sliderlayer/vendor/revolution/js/extensions/revolution.extension.video.min.js?v=1.x"></script>
+
+
+    <link rel="stylesheet" href="https://www.dffe.gov.za/themes/gavias_nextin/css/custom.css" media="screen" />
+    <link rel="stylesheet" href="https://www.dffe.gov.za/themes/gavias_nextin/css/update.css" media="screen" />
+
+    
+
+          <style type="text/css">
+        body{color:#000000 !important;} .audio-grid iframe{ width:100%; height:200px; } .views-field {word-break: break-word;overflow: hidden;} td {word-break: break-word;}.tabsbar table a[href=""] {text-decoration: none;font-weight: 400;pointer-events: none;} .date-width{white-space:nowrap;}.white-color, .white-color h4{ color:#FFF; margin-bottom:0; } h3, h4, h5{ color: #016533; font-weight: 700 !important;} table thead th { background: #016533; color: #fff; padding: 10px 5px; text-align:left; line-height: 18px; } table td{ padding: 5px 5px; line-height: 16px; } .service-block-singe .service-images-inner, .service-block-singe .post-content .post-title{display:none;} .service-block-singe .post-content { padding-top: 0px !important;} .service-block-singe .gsc-heading.style-1 .title { font-size: 30px; line-height: 38px; }.webform-submission-form .form-item input { height: 36px; line-height: 36px; } .form-item input.form-checkbox{ width:auto; float:left; } .form-item input.form-checkbox + form .form-item label{ width:auto; float:left; clear:right; }.events-list .view-content-wrap { display: flex; flex-wrap: wrap; }.events-list .view-content-wrap .item { flex: 1 0 25%;margin: 0 10px 20px 0; border: 1px solid #ccc; max-width: 33%; padding: 10px 10px 70px 10px; position: relative; } .events-list .view-content-wrap .item:last-child{ margin-right: 0; } .events-list .views-field.views-field-title { font-size: 17px; padding: 15px 0; text-align: left; line-height: 22px; min-height: 75px; } .events-list .views-label.views-label-field-event-dates { font-size: 16px; color: #333; font-weight: 600; }.views-field-field-event-dates ol li{ display:none; }.views-field-field-event-dates ol li:last-child{ display:block; } .views-field.views-field-view-node { position: absolute; left: 10px; bottom: 10px; width: calc(100% - 20px); } .views-field.views-field-view-node a{ padding: 4px 10px; display: block; color: #FFF !important; background: #016533; text-align: center; cursor: pointer; text-decoration:none; transition: all 0.3s ease; letter-spacing: 0.5px; } .views-field.views-field-view-node a:hover{ opacity: 0.8; }.event-full .post-content{ padding:30px; }.event-full .field--name-field-event-dates{ float:left; width:100%; } .event-full .node__content > .field--name-field-event-dates > .field__item { float: left; padding: 30px; border: 1px solid #ccc; margin-right: 30px; margin-bottom: 30px; }.field__label { color: #333; font-weight: 600; } .views-field-field-event-dates .field__label{ float:left; width:120px; } .date.clearfix{ display:none; }.views-field.views-field-field-event-image { height: 200px; overflow: hidden; }.views-field.views-field-field-event-image img{ height: 200px; width: 100%; } .node__meta{display:none;} .header-right .infor-list li { padding: 5px 5px !important; } .team-6-img { padding:30px 0 30px 70px; } .team-6-img img{width:100%;} .team-display .team-img{ border: solid 1px #999; height: 180px; overflow: hidden; margin-bottom:10px; } .team-display .team-img img{ width: 100%; } .single-image-border{ border: solid 1px #999; height: 180px; width: 150px; margin-bottom: 10px; } .team-desc{min-height:100px;} h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { text-transform: unset; } .breadcrumb {display:none !important; } .home-custom-box{ padding:30px; } .home-custom-box img{ max-width:100%; } .green-bg{ background-color: #00675A;} .yellow-bg{ background-color: #E98300; } .purple-bg{ background-color: #490E6F;; } .blue-bg{ background-color: #E98300; }.right-single-border{ position:relative; } .right-single-border::after{ content: ""; position: absolute; right: -70px; top: 40%; width: 60px; height: 3px; background: #016533; } .top-border{ position:relative; } .top-border::after{ content: ""; position: absolute; right: 50%; top: -50px; width: 3px; height: 30px; background: #016533; } .top-border.extra::after{ height: 60px; top: -80px; } .top-border::before{ content: ""; position: absolute; right: -50%; top: -50px; width: 100%; height: 3px; background: #016533; } .top-border.small::before{ width: 50%; right:0; } .top-border.last-child::before{ content: none; }.right-section-border{ position:relative; } .right-section-border::after{ content: ""; position: absolute; left: 10px; top: 95px; width: 30px; height: 670px; background: #016533; } .right-section-border::before{ content: ""; position: absolute; left: 10px; top: 98px; width: 27px; height: 664px; background: #fff; z-index: 1 }.team-member-title{ color: #fff; font-size: 14px; line-height: 16px; background: #016533; padding: 10px; margin-bottom: 10px; text-align:center; min-height: 38px; } .team-member-title-1{ color: #fff; font-size: 15px; line-height: 18px; background: #016533; padding: 5px; margin-bottom: 10px; text-align:center; min-height: 80px; } .team-member-title-1 p{margin:0;} .team-member-title p{margin:0;} .team-member-name p{margin-bottom:5px;} .team-member-name p:last-child{margin: 0;} .team-member-name{ padding: 15px 5px; background: #f5f5f5; border: 1px solid #ccc; font-size: 14px; line-height: 16px; text-align:left !important; margin-bottom: 10px; min-height: 65px; overflow: hidden; } .padding-5{ padding:5px !important;}.padding-5 p{ overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }.team-member-name div:last-child{ white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-bottom: 0; } .team-member-name div{padding-bottom:2px;} .team-member-name a{ font-weight:400; } .member-name{ font-size: 16px; font-weight: 600; padding-top: 5px; } .min-height { min-height:125px !important; } .navigation .gva_menu .sub-menu > li > a:hover, .navigation .gva_menu .sub-menu > li > a:active, .navigation .gva_menu .sub-menu > li > a:focus{ color: #dbdbdb !important; } .navigation .gva_menu > li > a.is-active{ color: #FFF !important; } .footer-inner .contact-info .text-theme{ font-weight: 600; color: #016533 !important; } .footer-inner .text-theme{ color: #016533 !important; }#footer .menu a:hover{ color: #016533 !important; } #footer .contact-info .list-style-one a{ font-size: 18px; } #footer .contact-info a:hover, #footer .contact-info a:focus{ color: #016533 !important; } #footer .socials-1 a{ border: none !important; font-size: 30px !important; width: 40px !important; height: auto !important; } .copyright a:hover{ color: #016533 !important; } .icon-twitter, .icon-twitter:focus{ color: #34a1f2 !important; } .icon-twitter:hover{ color: #2c89ce !important; } .icon-facebook, .icon-facebook:focus{ color: #496ebc !important; } .icon-facebook:hover{ color: #3b5998 !important; } .icon-linkedin, .icon-linkedin:focus{ color: #0e76a8 !important; } .icon-linkedin:hover{ color: #118fcc !important; } .icon-youtube, .icon-youtube:focus{ color: #FF0000 !important; } .icon-youtube:hover{ color: #db0000 !important; }.scroll-to-top{ color: #fff !important; border-color: #016533 !important; background: #016533 !important; } .scroll-to-top:hover{color: #016533 !important;background: #FFF !important; } .gavias_sliderlayer a:hover{ color: #016533 !important; } .slider-text.slide-style-2{background: rgba(255,255,255, 0.8) !important; color: #000000 !important; padding: 20px !important; } .gavias_sliderlayer .btn-slide-white.inner, .gavias_sliderlayer .btn-slide-white a, #gavias_slider_single .btn-slide-white.inner, #gavias_slider_single .btn-slide-white a{ color: #016533 !important; border: 4px solid #016533 !important; background:#FFF !important; } .banner-text { width: 19vw !important; padding: 30px 0 !important; text-align: justify !important; }.custom-list > li{ position: relative !important; list-style-type: none; } .custom-list > li::before{content: "";position: absolute;border-right:4px solid #016533;border-bottom:4px solid #016533;width:10px;height:10px;top: 15px;left: -22px;transform: translateY(-50%) rotate(-45deg); } .image-group, .image-group h5{ font-size: 13px !important; line-height: 16px !important; }.image-group img{ margin-bottom: 10px; height: 215px; border: solid 1px #999; } .image-group div{ margin-bottom: 10px; } a{ font-weight: 600; } .bb-container{ text-align: justify; }.gsc-tabs .nav-tabs{ padding:0 !important; border: 0!important; } .gsc-tabs .nav-tabs li a{ font-size: 17px; padding: 8px 30px 6px 30px !important; background: #f1f1f1 !important; border-radius: 8px 8px 0 0 !important; border: 1px solid #ccc; border-bottom: 0; margin-right: 5px; } .gsc-tabs .nav-tabs li a.active{ color: #fff !important; background: #016533 !important; border-color: 1px solid #014121; } .gsc-tabs .tab-content .tab-pane { padding: 15px !important; }.navigation .gva_menu .sub-menu > li:hover > ul { opacity: 1; visibility: visible; -webkit-transform: translateY(0); transform: translateY(0); opacity:1; display:block; } .navigation .gva_menu .sub-menu > li:hover ul li{visibility: visible; -webkit-transform: translateY(0); transform: translateY(0); opacity:1; } #node-single-comment{display:none;} .service-block-3 .service-block-content .service-icon{ padding:0; overflow:hidden; } .custom-heads-have h5{ color: #016533; font-weight:600; } .quick-custom-icon-text{ width:100% !important; }.gsc-video-box.style-1 .bg-full{padding: 40px 15px; background-attachment: unset; } .video-title{color: #fff; font-size: 18px; font-weight:600; padding-bottom:20px; } .gavias_sliderlayer .tp-bullets .tp-bullet, #gavias_slider_single .tp-bullets .tp-bullet { border: 4px solid rgba(1,101,51,0.3); } .gavias_sliderlayer .tp-bullets .tp-bullet.selected, #gavias_slider_single .tp-bullets .tp-bullet.selected{ border: 4px solid rgba(1,101,51,0.8); } .gva-offcanvas-mobile.show-view .gva_menu .menu-item a{ color: #000 !important; } .gva-offcanvas-mobile.show-view .gva_menu .menu-item a.is-active{ color: #016533 !important; } .gpb_el-content-inner .gpb_element-inner .gpb_row-inner { margin: 0; width: 100%; } .backend .service-images{ min-height: 298px; }#footer .copyright a:hover, #footer .copyright a:focus { color: #FFF; } .language-box .column-content-inner{ border-radius: 5px; border: 1px solid #ccc; transition: all 0.3s ease; } .language-box .column-content-inner:hover{ border-color: #adaaaa;background: #f8f8f8; } .speeches-2 .service-content .service-icon{ display:none;}.speeches-2 .title a,.speeches-2.frontend h3{ color:#016533; } #online-icon{ display:none; } .gva-search-region .search-content { width: 230px; } .gva-search-region .search-content form.search-block-form { padding-right: 0px; position: relative; } .gva-search-region .search-content form.search-block-form input[id*="edit-submit"] { background: #fff url(/sites/default/files/search.svg) no-repeat; color: rgba(0,0,0,0); width: 40px; background-position: center; background-size: 60%; border-radius: 6px; } #footer .footer-inner { padding: 40px 0;}.speeches-2 .item-image{ height:200px; overflow:hidden; } .speeches-2.views-field-title{ display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-align: center; margin: 15px 0; } .speeches-2.views-field-field-date-information { display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; text-align: center; margin: 15px 0; }.node--type-branches header.header-2 .main-menu { background: #008000; } .biodiversity-title .sub-title, .biodiversity-title .title{ color: #008000 !important; }.node--type-chemicals-and-waste-management header.header-2 .main-menu { background: #8C6900; } .chemicals-title .sub-title, .chemicals-title .title{ color: #8C6900 !important; }.node--type-climate-change-and-air-quality header.header-2 .main-menu { background: #B8E2F2; } .climate-title .sub-title, .climate-title .title{ color: #B8E2F2 !important; }.node--type-fisheries-management header.header-2 .main-menu { background: #235A83; } .fisheries-title .sub-title, .fisheries-title .title{ color: #235A83 !important; }.node--type-forestry-management header.header-2 .main-menu { background: #458C00; } .forestry-title .sub-title, .forestry-title .title{ color: #458C00 !important; }.node--type-oceans-and-coasts header.header-2 .main-menu { background: #002496; } .oceans-title .sub-title, .oceans-title .title{ color: #002496 !important; }.node--type-environmental-programmes header.header-2 .main-menu { background: #FFB612;} .environmental-programmes .sub-title, .environmental-programmes .title{ color: #FFB612 !important; }.node--type-corporate-management-services header.header-2 .main-menu { background: #006532;} .corporate-management-services .sub-title, .corporate-management-services .title{ color: #006532 !important; } .node--type-financial-management-services header.header-2 .main-menu { background: #006532;} .financial-management-services .sub-title, .financial-management-services .title{ color: #006532 !important; } .node--type-regulatory-compliance-and-sector header.header-2 .main-menu { background: #006532;} .regulatory-complianceand-sector-monitoring .sub-title, .regulatory-complianceand-sector-monitoring .title{ color: #006532 !important; } .tabsbar ul.quicktabs-tabs{ padding: 0; margin: 0; } .tabsbar ul.quicktabs-tabs li{ padding: 0; } .tabsbar .quicktabs-tabs > li > a{ padding: 8px 30px 6px 30px; background: #f1f1f1; border-radius: 8px 8px 0 0; border: 1px solid #ccc; margin-right: 5px; letter-spacing: 0.5px; } .tabsbar .quicktabs-tabs > li.active > a{ color: #fff !important; background: #016533 !important; border-color: #016533 !important; } .tabsbar .quicktabs-tabs > li.active:hover > a{ color: #fff !important; background: #016533 !important; border-color: #016533 !important; } .tabsbar .quicktabs-tabs > li:hover > a{ background: #e6f9ef !important; border-color: #016533 !important; border-color: #016533 !important; border-bottom-color: #ccc !important;} .tabsbar .quicktabs-main { padding: 15px; border: 1px solid #ccc; } .tabsbar table tr th{ padding: 10px 5px; white-space: nowrap; border-color: #016533; border-right-color: #dee2e6; border-bottom:0; border-width: 1px !important; } .tabsbar table tr th:last-child{border-right-color: #016533; } .tabsbar table tr td{ padding: 5px;line-height: 18px; border: 1px solid #dee2e6; border-width: 1px !important; word-wrap: break-word; } .tabsbar caption{ padding: 0 !important; caption-side: top !important; } .tabsbar caption time{ font-size: 16px; font-weight: 600; color: #474747; margin-bottom: 10px; display: inline-block; } .tabsbar table a{ text-decoration: underline; outline: none!important; } .tabsbar table a:hover{ color: #016533; text-decoration: none; } .tabsbar table tr:nth-child(even){ background: #fbfbfb; } table td .item-image, table th.views-field-field-doc-type{ text-align: center; } #page-main-content { min-height: 60px; } .owl-stage{ display:flex; } .owl-stage .owl-item{ border: 1px solid #e3e3e3; border-radius: 5px; margin: 0 5px; position: relative; } .owl-stage .owl-item .item{ padding: 10px 10px 40px 10px; } .owl-stage .owl-item .item .item-image{ margin-bottom: 10px; display: flex; align-items: center; justify-content: center; padding: 5px; } .owl-stage .views-field-view-node-1{ position: absolute; bottom: 6px; text-transform: capitalize; width: 100%; text-align: center; border-top: 1px solid #ccc; left: 0; padding-top: 5px; } .owl-stage .views-field.views-field-title { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; } .owl-stage .views-field-field-short-description{ display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; } caption { padding-top: 0.75rem; padding-bottom: 0.75rem; text-align: center; caption-side: top;width: 100%;font-weight:700;color:#016533;font-size: 1.225rem; } .gsc-icon-box .highlight_content .title { font-size: 17px; } .latest-tender table, .received-tenders table, .closed-tenders table, .awarded-bids table{ table-layout: fixed; } .latest-tender table th, .received-tenders table th, .closed-tenders table th, .awarded-bids table th{ white-space: inherit !important; } .latest-tender table th:nth-child(1), .latest-tender table th:nth-child(2){ width: 10%; } .latest-tender table th:nth-child(3){ width: 36%; } .latest-tender table th:nth-child(4), .latest-tender table th:nth-child(5){ width: 17%; } .latest-tender table th:nth-child(6){ width: 10%; }.received-tenders table th:nth-child(1), .received-tenders table th:nth-child(2){ width: 12%; } .received-tenders table th:nth-child(3){ width: 38%; } .received-tenders table th:nth-child(4){ width: 26%; } .received-tenders table th:nth-child(5){ width: 12%; }.closed-tenders table th:nth-child(1), .closed-tenders table th:nth-child(2){ width: 10%; } .closed-tenders table th:nth-child(3){ width: 38%; } .closed-tenders table th:nth-child(4), .closed-tenders table th:nth-child(5){ width: 17%; } .closed-tenders table th:nth-child(6){ width: 10%; }.awarded-bids table th:nth-child(1), .awarded-bids table th:nth-child(2){ width: 12%; } .awarded-bids table th:nth-child(3){ width: 38%; } .awarded-bids table th:nth-child(4){ width: 26%; } .awarded-bids table th:nth-child(5){ width: 12%; }.gazetted_notices table td:nth-child(1){ white-space: nowrap; }.navigation .gva_menu>li>a { font-size: 11px; } .navigation .gva_menu .sub-menu > li{ padding: 5px 0; } .navigation .gva_menu .sub-menu > li:first-child{ padding-top: 0; } .navigation .gva_menu .sub-menu > li:last-child{ padding-bottom: 0; }.publication-display{ width: 100%; text-align: center; line-height: 20px; margin-bottom:40px; } .publication-display > div{ position: relative; padding:5px 15px; z-index: 1; transition: all0.3s ease; }.publication-display .item-image{ text-align: center; } .publication-display img{ width: auto; max-width: 150px; margin: 0 auto 15px auto; display: block; box-shadow: 0 0 3px #888; } .publication-display .views-field-title{ font-weight: bold; font-style: italic; margin-bottom: 30px; } .publication-display .views-field-body p, .publication-display .views-field-body div{margin-bottom: 10px !important; }.inner-nav{ display:flex; width:100%; } .inner-nav li{ display:inline-block; width:20%; list-style:none; } .inner-nav li a{ Padding: 5px 15px; text-align: center; border: 1px solid #ddd; position: relative; height: 100%; display: flex; justify-content: center; align-items: center; }.publication-section{padding-top:140px;} .publication-section.gbb-row .bb-inner{padding-top: 0px; padding-bottom: 0px; } .publication-section.gbb-row .bb-inner .bb-container{border-bottom: 1px solid #ccc; } .img-100 img{ width: 100%; } .gallery-block{ width: 100%; } .gallery-block .gsc-column {margin-bottom:20px; } .gallery-block .gsc-column .gsc-image{ margin-bottom: 0; }.tenders-list, .tender-section, .responsive-table { width: 100%; overflow-x: auto; }.tenders-list table, .tender-section table, .responsive-table table { min-width: 600px; } .legislation-data .views-field-field-date-time-published-1 {width: 140px;white-space: nowrap;}.legislation-data .views-field-field-external-source-link {width: 150px;}.legislation-data .views-field-field-doc-type {width: 80px;} .gsc-our-gallery .owl-stage .owl-item .item{ padding: 0; } .gsc-our-gallery .owl-stage .owl-item{ border: none; } .quick-custom-icon a{ text-align: center; } .custom-inner-padding .bb-inner{ padding:0 !important;}.legislation-display ul.quicktabs-tabs {margin: 0;padding: 0;}.legislation-display ul.quicktabs-tabs li {display: inline-block;background: none;list-style-type: none;padding: 0px;white-space: nowrap;}.legislation-display ul.quicktabs-tabs li a.loaded {display: block;padding: 8px 30px 6px 30px;background: #f1f1f1;border-radius: 8px 8px 0 0;border: 1px solid #ccc;letter-spacing: 0.5px;margin-right:5px;}.legislation-display ul.quicktabs-tabs li.active a.loaded {color: #fff !important;background: #016533 !important;border-color: #016533 !important;}.legislation-display .quicktabs-main {border: 2px solid #ccc;padding: 15px;}.legislation-display .views-row{display:flex;width: 100%;text-align: left;padding: 0;border-collapse:collapse;border:1px solid #dadada;border-top: 0;background: #fff;word-wrap: break-word;}.legislation-display .views-row:nth-child(even){background: #f9f9f9;}.legislation-display .views-field {width: 100%;border-right: 1px solid #dadada;padding: 0px;}.legislation-display .views-field-field-date-time-published-1,.legislation-display .views-field-field-date-time-published{width: 140px;flex-shrink: 0;}.legislation-display .views-field-field-comments-by{width: 140px;flex-shrink: 0;}.legislation-display .views-field-field-doc-type{width: 80px;border-right: 0;flex-shrink: 0;text-align: center;}.legislation-display .views-field-field-doc-type .field-content{padding: 6px;}.legislation-display .views-field-field-doc-type img{max-height: 28px;box-shadow: 0 0 2px #777;}.legislation-display span.views-label {width: 100%;display: none;}.legislation-display .quicktabs-tabpage .views-row:first-child > div .views-label {background: #016533;color: #FFF;padding: 10px;margin-bottom: 5px;display: block !important;font-weight: 600;white-space: nowrap;}.legislation-display .field-content {padding: 8px 10px;width: 100%;display: block;}.legislation-display .views-label {color: #016533}.legislation-display .views-field-field-external-source-link{width: 200px;flex-shrink: 0;} .parliamentary-data .views-field-field-date-time-published-1 {width: 140px;white-space: nowrap;}.parliamentary-data .views-field-field-external-source-link {width: 150px;}.parliamentary-data .views-field-field-doc-type {width: 80px;}.parliamentary-data ul.quicktabs-tabs {margin: 0;padding: 0;}.parliamentary-data ul.quicktabs-tabs li {display: inline-block;background: none;list-style-type: none;padding: 0px;white-space: nowrap;}.parliamentary-data ul.quicktabs-tabs li a.loaded {display: block;padding: 8px 30px 6px 30px;background: #f1f1f1;border-radius: 8px 8px 0 0;border: 1px solid #ccc;letter-spacing: 0.5px;margin-right:5px;}.parliamentary-data ul.quicktabs-tabs li.active a.loaded {color: #fff !important;background: #016533 !important;border-color: #016533 !important;}.parliamentary-data .quicktabs-main {border: 2px solid #ccc;padding: 15px;}.parliamentary-data .views-row{display:flex;width: 100%;text-align: left;padding: 0;border-collapse:collapse;border:1px solid #dadada;border-top: 0;background: #fff;word-wrap: break-word;}.parliamentary-data .views-row:nth-child(even){background: #f9f9f9;}.parliamentary-data .views-field {width: 100%;border-right: 1px solid #dadada;padding: 0px;}.parliamentary-data .views-field-field-date-time-published-1,.parliamentary-data .views-field-field-date-time-published{width: 140px;flex-shrink: 0;}.parliamentary-data .views-field-field-i{width: 80px;flex-shrink: 0;}.parliamentary-data .views-field-field-place {flex-shrink: 0;width: 130px;}.parliamentary-data .views-field.views-field-field-authority {flex-shrink: 0;width: 120px;}.parliamentary-data .views-field-field-doc-type{width: 80px;border-right: 0;flex-shrink: 0;text-align: center;}.parliamentary-data .views-field-field-doc-type .field-content{padding: 6px;}.parliamentary-data .views-field-field-doc-type img{max-height: 28px;box-shadow: 0 0 2px #777;}.parliamentary-data span.views-label {width: 100%;display: none;}.parliamentary-data .quicktabs-tabpage .views-row:first-child > div .views-label {background: #016533;color: #FFF;padding: 10px;margin-bottom: 5px;display: block !important;font-weight: 600;white-space: nowrap;}.parliamentary-data .field-content {padding: 8px 10px;width: 100%;display: block;}.parliamentary-data .views-label {color: #016533}.parliamentary-data .views-field-field-external-source-link{width: 200px;flex-shrink: 0;}.tabsbar ul.quicktabs-tabs {border-bottom: 2px solid #dee2e6;}.tabsbar .quicktabs-main {padding: 20px 0 0 0;border: 0px solid #ccc;}.tabsbar table {border: 0px solid #dee2e6;}.tabsbar table tr th {border-width: 0;}.tabsbar table tr td {border-right: 0px;border-left: 0px;}.tabsbar ul.quicktabs-tabs {border-bottom: 2px solid #dee2e6;}.tabsbar .quicktabs-main {padding: 20px 0 0 0;border: 0px solid #ccc;}.tabsbar table {border: 0px solid #dee2e6;}.tabsbar table tr th {border-width: 0px !important;}.tabsbar table tr td {border-right: 0px;border-left: 0px;vertical-align: top;}.legislation-display ul.quicktabs-tabs li a.loaded {border-bottom: 0;}.legislation-display .quicktabs-main { border: 0px solid #ccc !important;border-top: 2px solid #ccc;padding: 15px 0 !important;}.legislation-display ul.quicktabs-tabs {border-bottom: 2px solid #dadada;}.legislation-display .views-field {border-right: 0px solid #dadada;}.legislation-display .views-row {border: 0px solid #dadada;border-bottom: 1px solid #dadada;}.parliamentary-data ul.quicktabs-tabs li a.loaded {border-bottom: 0;}.parliamentary-data .quicktabs-main {border: 0px solid #ccc !important;border-top: 2px solid #ccc;padding: 15px 0 !important;}.parliamentary-data ul.quicktabs-tabs {border-bottom: 2px solid #dadada;}.parliamentary-data .views-field {border-right: 0px solid #dadada;}.parliamentary-data .views-row {border: 0px solid #dadada;border-bottom: 1px solid #dadada;} @media (max-width:1200px){ .speeches-2 .item-image { height: 400px !important; }} @media (max-width:992px){ .tab-view-none{ display: none !important; }.right-single-border::after{ content:none; } .team-display .team-img{ height: 255px; } .top-border::after{content:none;} .top-border::before{content:none;} .right-section-border::after{content:none;} .right-section-border::before{content:none;}.breadcrumb-content-inner .gva-breadcrumb-content .page-title { font-size: 30px !important; line-height: 40px !important; } header.header-2 .main-menu{ padding: 10px; } .gva-offcanvas-mobile .gva-navigation .gva_menu > li ul.menu.sub-menu li a { font-size: 9px; line-height: 9px; } } @media (max-width:768px){.tp-bullets{display: none !important; }.speeches-2 .item-image { height: 300px !important; } .header-info{ width: 35px; padding: 0; } .legislation-display .views-row{display:block;width: 100%; padding: 10px;border:1px solid #dadada; margin-bottom: 10px;} .legislation-display .views-field-field-date-time-published-1{width: 100%;} .legislation-display .views-field-field-doc-type{width: 100%; text-align: left;} .legislation-display .views-field-field-doc-type .field-content{padding: 8px 10px; } .legislation-display .views-field{ border-right: 0; border-bottom: 1px solid #dadada;margin-bottom: 5px; } .legislation-display .quicktabs-tabpage .views-row:first-child > div .views-label {background: inherit;color: inherit;padding: 0px;margin-bottom: 0;} .legislation-display span.views-label {display: block;} .legislation-display .field-content {padding: 0 0 5px 0;} .legislation-display .views-field-field-doc-type{ border: 0 !important; margin: 0; padding: 0; } .legislation-display .views-label-field-doc-type{ display: none !important; }.legislation-display .views-row .views-label{ color: #016533 !important; font-weight: 600; } .legislation-display .quicktabs-tabpage .views-row:first-child > div .views-label-field-doc-type{ display: none !important; } .legislation-display .views-field-field-external-source-link{width: 100%;} .parliamentary-data .views-row {display: block;width: 100%;padding: 10px;border: 1px solid #dadada;margin-bottom: 10px;line-height: 18px;}.parliamentary-data .views-field-field-date-time-published-1 {width: 100%;}.parliamentary-data .views-field-field-doc-type {width: 100%;text-align: left;}.parliamentary-data .views-field-field-doc-type .field-content {padding: 8px 10px;}.parliamentary-data .views-field {width:100%;border-right: 0;border-bottom: 1px solid #dadada;margin-bottom: 5px;} .parliamentary-data .views-field.views-field-field-place{ display:none; } .parliamentary-data .views-field-field-authority{ width: 100% !important;margin: 0;border: 0; }.parliamentary-data .quicktabs-tabpage .views-row:first-child > div .views-label {background: inherit;color: inherit;padding: 0px;margin-bottom: 0;}.parliamentary-data span.views-label {display: block;}.parliamentary-data .field-content {padding: 0 0 5px 0;}.parliamentary-data .views-field-field-doc-type {border: 0 !important;margin: 0;padding: 0;}.parliamentary-data .views-label-field-doc-type {display: none !important;}.parliamentary-data .views-row .views-label {color: #016533 !important;font-weight: 600;}.parliamentary-data .quicktabs-tabpage .views-row:first-child > div .views-label-field-doc-type {display: none !important;}.parliamentary-data .views-field-field-external-source-link {width: 100%;}} @media (max-width:576px){ .gbb-row .bb-inner{ padding-top: 30px; padding-bottom: 30px; } table, table th, table td, table td a{ text-align: left !important; } ul, ol{ padding-left: 20px; } ul li, ol li, p, a{ text-align: left; } h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { text-align: left; } .custom-title, .custom-title h2 { font-size: 22px !important; line-height: 28px; } .gsc-our-gallery .item .box-content{ position: relative; top: 0px; right: 0; max-width: 100%; width: 100%; padding: 10px; text-align: left; height: 195px; overflow-y: auto; } .gsc-our-gallery .item .box-content .desc { display: block; line-height: 17px; } .gsc-our-gallery .item .box-content .title{ padding-bottom: 9px; margin-bottom: 9px; } .owl-stage .owl-item .item{ padding: 0; } .team-display .team-img{ height: auto; } .speeches-2 .item-image { height: 400px !important; } .breadcrumb-content-inner .gva-breadcrumb-content .page-title { font-size: 20px !important; line-height: 30px !important; }.inner-nav{ display:block; }.inner-nav li{ width:100%; } } @media (max-width:475px){ .home-custom-box img { max-width: 100%; width: 100%; } }@media (min-width: 992px){ .navigation .gva_menu .sub-menu > li > a { font-size: 11px; line-height: 13px; } }
+      </style>
+    
+          <style class="customize"></style>
+    
+  </head>
+
+  
+  <body class="gavias-pagebuilder layout-no-sidebars wide path-node node--type-page">
+
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+
+      
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="gva-body-wrapper">
+	<div class="body-page gva-body-page">
+	   <header id="header" class="header-2">
+
+					
+	<div class="header-main gv-sticky-menu">
+		<div class="container header-content-layout">
+			<div class="header-main-inner p-relative">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12 content-inner">
+						<div class="branding">
+															  <div>
+    
+      <a href="/" title="Home" rel="home" class="site-branding-logo">
+        
+        <img class="logo-site" src="/sites/default/files/logo_0.png" alt="Home" />
+        
+    </a>
+    
+  </div>
+
+													</div>
+						<div class="header-right">
+
+							
+								  <div>
+    <div id="block-headerright2" class="block block-block-content block-block-contentf8b63a6d-5b04-4039-b143-5cf76ce22978 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="header-flag"><img src="/sites/default/files/header/south-africa-flag.png" alt="South Africa" /></div><div class="header-info"><ul class="infor-list list-unstyled"><li class="info-phone"><a class="" href="https://twitter.com/environmentza " target="_blank"><img src="/sites/default/files/socialmedia/twitter(1).png" width="24" /></a></li><li class="address"><a class="" href="https://www.facebook.com/TheDFFE/" target="_blank"><img src="/sites/default/files/socialmedia/facebook(2).png" width="24" /></a></li><li class="address"><a class="" href="https://www.linkedin.com/login" target="_blank"><img src="/sites/default/files/socialmedia/linkedin.png" width="24" /></a></li><li class="address"><a class="" href="https://www.youtube.com/user/EnvironmentZA " target="_blank"><img src="/sites/default/files/socialmedia/youtube(1).png" width="24" /></a></li></ul></div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+
+																						<div class="gva-search-region search-region">
+<div class="search-content">
+										  <div>
+    <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-gavias-nextin-searchform" role="search">
+  
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+									</div>
+
+																	</div>
+													</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="header-inner clearfix ">
+		<div class="main-menu">
+			<div class="container">
+				<div class="area-main-menu">
+					<div class="area-inner">
+						<div class="gva-offcanvas-mobile">
+							<div class="close-offcanvas hidden">
+								<i class="fa fa-times"></i>
+							</div>
+							<div class="main-menu-inner">
+																	  <div>
+    <nav aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+          
+  
+  <h2  class="visually-hidden block-title block-title" id="block-mainnavigation-menu"><span>Main navigation</span></h2>
+  
+  <div class="block-content">
+                 
+<div class="gva-navigation">
+
+              <ul  class="clearfix gva_menu gva_menu_main">
+      
+                              
+            <li  class="menu-item">
+        <a href="/">          Home        </a>
+          
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="/about-us">          About<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/ministry">          Ministry        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/overview-department">          Overview of the department        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/structure-department">          Structure of the department        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/entities">          Entities        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/national-office">          National office        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/provincial-departments-environment">          Provincial Departments of Environment        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/webmaster-contacts">          Webmaster contacts        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">          Branches<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/BiodiversityandConservation">          Biodiversity and Conservation        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/ChemicalsandWasteManagement">          Chemicals and Waste Management        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/ClimateChangeandAirQuality">          Climate Change and Air Quality        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/CorporateManagementServices">          Corporate Management Services        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/branches/ep">          Environmental Programmes        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/FinancialManagementServices">          Financial Management Services        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/FisheriesManagement">          Fisheries Management        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/branches/fom">          Forestry Management        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/RegulatoryComplianceandSectorMonitoring">          Regulatory Compliance and Sector Monitoring        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/OceansandCoasts">          Oceans and Coasts        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item ">
+        <a href="/tenders">          Tenders        </a>
+          
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">          Careers<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/vacancies">          Vacancies        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/internships">          Internships        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/bursaries">          Bursaries        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">          Legislation<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/legislation/bills">          Bills        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/legislation/greenpapers">          Green papers        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/legislation/whitepapers">          White papers        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/legislation/actsregulations">          Acts and regulations        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/international-agreements-and-obligations">          International agreements and obligations        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/guidelines-and-policies">          Guidelines and policies        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/legislation/gazetted_notices">          Gazetted notices        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/legislation/appeals">          Appeals        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/legislation/publicnotices">          Public notices        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">          Documents<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/annual-reports-strategic-plans-and-annual-performance-plans">          Annual reports and strategic plans        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/supply-chain-management">          Supply chain management        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/strategy-and-framework">          Strategy and framework        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/forms">          Forms        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/other-documents">          Other documents        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">          e-Tools<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="https://screening.environment.gov.za/screeningtool/index.html#/pages/welcome">          Environmental Screening Tool for EIA Applications        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://enviroindicator.environment.gov.za/">          Environmental indicators’ database        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://egis.environment.gov.za/">          Environmental Geographical Information Systems (E-GIS)        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="http://sawic.environment.gov.za/epr/index.php">          Registration in terms of the: Regulations regarding extended producer responsibility (EPR), 2020        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="http://saaelip.environment.gov.za/SAAELIP/home/">          South African Atmospheric Emission Licensing and Inventory Portal (SAAELIP)        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://ccis.environment.gov.za/carbon-sinks/#/">          South African Carbon Sinks Atlas        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://ghgreporting-public.environment.gov.za/GHGLanding/SAGERSHome.html">          South African Greenhouse Gas Reporting System (SAGERS)        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="http://sawic.environment.gov.za/">          South African Waste Information Centre (SAWIC)        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://soer.environment.gov.za/soer/">          State of the environment report  (SOER)        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="http://sa2050pathways.environment.gov.za/pathways/11111111111111111111111111111111111111111/primary_energy_chart/comparator/11111111111111111111111111111111111111111">          The South Africa 2050 pathway calculator        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://saaqis.environment.gov.za/">          The South African Air Quality Information System (SAAQIS)        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://dffeportal.environment.gov.za/portal/apps/webappviewer/index.html?id=7e27f116dd194c1f9d446dacc76fe483">          Protected areas register (PAR)        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://www.fishing.dffe.gov.za/">          e-Permitting Fishing Permit System        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="https://survey123.arcgis.com/share/863bdd53fbea45208e8b2177445e011b">          Ten Million Trees Programme        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item ">
+        <a href="/resources">          Resources        </a>
+          
+              </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="">          Media<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/media-releases">          Media Releases        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/parliamentary-questions">          PARLIAMENTARY Q&amp;A        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/media-contacts">          Media contacts        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/speeches">          Speeches        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/publications">          Publications        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/audio-visual">          Audio-visual        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/image-gallery">          Image gallery        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item ">
+        <a href="/contact-us">          Contact        </a>
+          
+              </li>
+        </ul>
+  
+
+</div>
+
+
+        </div>  
+</nav>
+
+  </div>
+
+															</div>
+
+													</div>
+
+						<div id="menu-bar" class="menu-bar menu-bar-mobile d-lg-none d-xl-none">
+							<span class="one"></span>
+							<span class="two"></span>
+							<span class="three"></span>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	
+</header>
+		
+								<div class="breadcrumbs">
+				  <div>
+    
+
+<div class="breadcrumb-content-inner">
+  <div class="gva-breadcrumb-content">
+    <div id="block-gavias-nextin-breadcrumbs" class="text-light block gva-block-breadcrumb block-system block-system-breadcrumb-block no-title">
+      <div class="breadcrumb-style gva-parallax-background" style="background-color: #F6F6F6;background-image: url(&#039;/themes/gavias_nextin/images/breadcrumb.jpg&#039;);background-position: center center;background-repeat: no-repeat;">
+        <div class="container">
+          <div class="breadcrumb-content-main">
+                          <div class="">
+                <div class="content block-content"><div class="breadcrumb-links">
+  <div class="content-inner">
+          <nav class="breadcrumb " aria-labelledby="system-breadcrumb">
+        <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+        <ol>
+          
+                            <li>
+                          <a href="/">Home</a>
+                                      <span class=""> . </span>
+              
+          </li>
+                            <li>
+                          
+                          
+          </li>
+                            <li>
+                          National Waste Management Summit
+                          
+          </li>
+        
+          <li></li>
+        </ol>
+      </nav>
+      </div> 
+</div>  </div>
+              </div>  
+                        <h2 class="page-title">National Waste Management Summit </h2>
+          </div> 
+        </div> 
+        <div class="gva-parallax-inner skrollable skrollable-between" data-bottom-top="top: -80%;" data-top-bottom="top: 0%;"></div>    
+      </div> 
+    </div>  
+  </div>  
+</div>  
+
+
+  </div>
+
+			</div>
+		
+		<div role="main" class="main main-page has-breadcrumb">
+		
+			<div class="clearfix"></div>
+				
+
+							<div class="help gav-help-region">
+					<div class="container">
+						<div class="content-inner">
+							  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+						</div>
+					</div>
+				</div>
+						
+			<div class="clearfix"></div>
+						
+			<div class="clearfix"></div>
+			
+			<div id="content" class="content content-full">
+				<div class="container-full container-bg">
+					<div class="content-main-inner">
+	<div id="page-main-content" class="main-content">
+		<div class="main-content-inner">
+			
+							<div class="content-main">
+					  <div>
+    <div id="block-gavias-nextin-content" class="block block-system block-system-main-block no-title">
+  
+    
+      <div class="content block-content">
+      <!-- Start Display article for detail page -->
+
+<div data-history-node-id="1191" role="article" typeof="schema:WebPage" class="node node--type-page node--view-mode-full">
+  <div class="header-title">
+  
+    <div class="container">
+      <h2 class="title"><span>
+<span property="schema:name">National Waste Management Summit</span>
+</span></h2>
+    </div>
+  </div>
+  
+  <div class="node__content clearfix">
+    <div class="gavias-builder--content">		  	<div class="gbb-row-wrapper section row-first-level  gbb-row  bg-size-cover"  style=""  >
+		  			    	<div class="bb-inner ">  
+		      	<div class="bb-container container">
+			        	<div class="row row-wrapper">
+									<div  class="gsc-column   col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12  " >
+	      <div class="column-inner  bg-size-cover  ">
+	         <div class="column-content-inner">
+	           <div class="column-content  " ><div><strong>Event date:</strong>&nbsp;2015-03-09 (All day)&nbsp;to&nbsp;2015-03-11 (All day)</div></div>	         </div>  
+	      </div>
+        
+	    </div>
+	   		<div  class="gsc-column   col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12  " >
+	      <div class="column-inner  bg-size-cover  ">
+	         <div class="column-content-inner">
+	                       <div class="widget gsc-image text-none "  >
+               <div class="widget-content">
+                   
+                    <img src="https://www.dffe.gov.za/sites/default/files/wastesummit_banner.png" alt=""  />
+                                 </div>
+            </div>    
+         	         </div>  
+	      </div>
+        
+	    </div>
+	   		<div  class="gsc-column   col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12  " >
+	      <div class="column-inner  bg-size-cover  ">
+	         <div class="column-content-inner">
+	           <div class="column-content  " ><h4>&nbsp;</h4>
+<h4>Outcomes</h4>
+<ul>
+<li><a href="../../sites/default/files/docs/wastesummit_resolutions2015.pdf">2015 Waste Management Summit resolutions</a>&nbsp;[PDF]</li>
+</ul></div>	         </div>  
+	      </div>
+        
+	    </div>
+	   	     	 			</div>
+    				</div>
+  				</div>  
+			  				</div>  
+				  	<div class="gbb-row-wrapper section row-first-level  gbb-row  bg-size-cover"  style="background-color:#f1f1f1"  >
+		  			    	<div class="bb-inner default">  
+		      	<div class="bb-container container">
+			        	<div class="row row-wrapper">
+									<div  class="gsc-column   col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12  " >
+	      <div class="column-inner  bg-size-cover  ">
+	         <div class="column-content-inner">
+	           <div class="column-content  " ><h4 style="text-align: justify;">Background</h4>
+<p style="text-align: justify;">The coming into effect of the National Environmental Management: Waste Act, 2008 (Act No. 59 of 2008) (hereinafter referred to as the NEMWA) on 1 July 2009 brought about a significant policy shift for waste management in South Africa. This introduced the waste management hierarchy approach which advocates for waste avoidance, reduction, reuse, recycling, recovery as priority options before treatment and disposal of waste, which is the last resort. The NEMWA serves as one of the catalysts aimed at fast tracking the implementation of integrated waste management systems as envisaged by the White Paper on Integrated Pollution and Waste Management of 2000 which emphasised the management of waste throughout its life cycle.</p>
+<p style="text-align: justify;">The National Waste Management Strategy (NWMS) which was approved by Cabinet in 2011 sets the priority areas for the implementation of NEMWA which includes driving the recycling economy, implementing a varied regulatory system, creating jobs and SMMEs, promoting public awareness and supporting waste service delivery amongst others. This is because South Africa faces numerous waste management challenges including the growing volumes of waste generated due to economic growth, population growth and the complexity of waste streams generated. Lack of sufficient recycling infrastructure, reclamation systems and insufficient funding mechanisms further add to the complexity of this composite challenge. Central to these challenges; is a need for continued coordination and sharing of resources amongst the three spheres of government as well as industry and civil society in order to make momentous changes in the waste management sector.</p>
+<p style="text-align: justify;">It is acknowledged that effective waste management can contribute to job creation thereby responding to the aspirations contained in the National Development Plan, to provide a quality life for all. In this regard, The Department of Environmental Affairs has embarked on law reforms to accelerate economic growth in the waste sector focusing in waste collection and recycling. The National Environmental Management Waste Amendment Act, 2014 (Act No. 26 of 2014) was passed on 2 June 2014. The Act provides for the establishment of a Pricing Strategy for Waste Management Charges as well as the institutional mechanisms in a form of the Waste Management Bureau, which will fast track the implementation of the recycling economy in South Africa.</p>
+<p style="text-align: justify;">There is a need to streamline the coordination of waste management initiatives within the country and bring together all the role players. This includes other government departments, provinces, municipalities, private sector, civil society and the general public in order to ensure that the plight of waste management is elevated and that it is placed at the top of government&rsquo;s service delivery agenda.</p>
+<p style="text-align: justify;">This thus motivates for the hosting of a Waste Management Summit at the Ingwenyama Conference Centre in White River, in Mpumalanga Province, on the 9th-11th of March 2015. The Summit will be held over two and half days. The first day (the 9th) will be dedicated to a Government Officials&rsquo; Dialogue with government officials from all three spheres participating. This is more an Extended Mintech Working Group 9 Meeting. The second day will involve industry, government, civil society, labour and other role-players, starting with a High Level Segment and Key Note Address by Minister for Environmental Affairs.</p>
+<p style="text-align: justify;">The last day of the Waste Management Summit will be the engagements and debates on what approaches will best for the country, learning from other developed and developing economies. At the same level, the Waste Summit will allow for the high level inputs on the direction the country is taking on waste management in all the three spheres of government.</p></div>	         </div>  
+	      </div>
+        
+	    </div>
+	   	     	 			</div>
+    				</div>
+  				</div>  
+			  				</div>  
+				  	<div class="gbb-row-wrapper section row-first-level  gbb-row  bg-size-cover"  style=""  >
+		  			    	<div class="bb-inner default">  
+		      	<div class="bb-container container">
+			        	<div class="row row-wrapper">
+									<div  class="gsc-column   col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12  " >
+	      <div class="column-inner  bg-size-cover  ">
+	         <div class="column-content-inner">
+	           <div class="column-content  " ><h4 style="text-align: justify;">Objectives</h4>
+<p style="text-align: justify;">One of the objectives of the National Waste Management Summit is to introduce the recently promulgated National Environmental Management: Waste Amendment Act, 2014 (Act No. 26 of 2014) to the stakeholders and allow an opportunity for high level and technical engagement on how the Act will be taken forward. The Waste Management Summit will be held as a once off summit which may be repeated as and when required. The summit does not replace the Waste Management Officers&rsquo; Khoro which is held between national, provincial and local government on waste management or the Wastecon, which is attended by representatives of industry and government.</p>
+<p style="text-align: justify;">The main objectives of the Summit are:</p>
+<ul>
+<li style="text-align: justify;">To create a platform for high level and technical engagement on waste management priorities for the country</li>
+<li style="text-align: justify;">To deliberate on awareness raising mechanisms at a national scale</li>
+<li style="text-align: justify;">To discuss the best model for the introduction of a robust waste recycling economy</li>
+<li style="text-align: justify;">To discuss the pricing strategy for waste management in the country and the best implementation mechanisms thereof</li>
+<li style="text-align: justify;">To explore co-regulatory approaches such as Industry Waste Management Plans as envisaged in the NEMWAA</li>
+<li style="text-align: justify;">To deliberate on technologies for waste management suitable for South Africa</li>
+<li style="text-align: justify;">To discuss how to incorporate the informal sector in waste recycling</li>
+<li style="text-align: justify;">To mainstream climate change matters in waste management and discuss the implementation of the Waste Management Flagship provided for in the Climate Change Response Policy</li>
+<li style="text-align: justify;">To deliberate on mechanisms for the effective delivery of waste management services by municipalities and support thereof</li>
+<li style="text-align: justify;">To create a national platform for the exchange of information on best practice between municipalities and provinces</li>
+<li style="text-align: justify;">To set a platform for the effective implementation of the NEMWA</li>
+<li style="text-align: justify;">To coordinate waste management matters in general</li>
+</ul></div>	         </div>  
+	      </div>
+        
+	    </div>
+	   	     	 			</div>
+    				</div>
+  				</div>  
+			  				</div>  
+				  	<div class="gbb-row-wrapper section row-first-level  gbb-row  bg-size-cover"  style="background-color:#f1f1f1"  >
+		  			    	<div class="bb-inner default">  
+		      	<div class="bb-container container">
+			        	<div class="row row-wrapper">
+									<div  class="gsc-column   col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12  " >
+	      <div class="column-inner  bg-size-cover  ">
+	         <div class="column-content-inner">
+	           <div class="column-content  " ><h4>Overview</h4>
+<p style="text-align: justify;">The Summit will be held on&nbsp;9th - 11th March 2015&nbsp;in White River, Mpumalanga Province. The main theme will be&lsquo;War on Waste, Driving the recycling economy in South Africa&rsquo;. The emphasis will be on creating an enabling environment in the country for recycling to thrive including developing recycling infrastructure and creating a sustainable platform mainstream it into the green economy. It is acknowledged that recycling is taking place in the country but it is not coordinated therefore the country is not able to account for all the benefits derived from it.</p></div>	         </div>  
+	      </div>
+        
+	    </div>
+	   	     	 			</div>
+    				</div>
+  				</div>  
+			  				</div>  
+				  	<div class="gbb-row-wrapper section row-first-level  gbb-row  bg-size-cover"  style=""  >
+		  			    	<div class="bb-inner default">  
+		      	<div class="bb-container container">
+			        	<div class="row row-wrapper">
+									<div  class="gsc-column   col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12  " >
+	      <div class="column-inner  bg-size-cover  ">
+	         <div class="column-content-inner">
+	           <div class="column-content  " ><h4 style="text-align: justify;">Media related products</h4>
+<ul>
+<li style="text-align: justify;"><a href="../../minister-edna-molewas-keynote-address-during-national-waste-management-summit">Speech:&nbsp;Minister Edna Molewa&rsquo;s keynote address during the National Waste Management Summit</a></li>
+<li style="text-align: justify;"><a href="../../sites/default/files/docs/wastesummit_programme.pdf">Programme</a></li>
+<li style="text-align: justify;"><a href="../../minister-edna-molewa-lead-national-waste-management-summit">Media statement: Minister Edna Molewa to lead the National Waste Management Summit.</a></li>
+<li style="text-align: justify;"><a href="../../national-waste-management-summit-09-march-2015">Gallery</a></li>
+</ul></div>	         </div>  
+	      </div>
+        
+	    </div>
+	   	     	 			</div>
+    				</div>
+  				</div>  
+			  				</div>  
+		</div>
+  </div>
+</div>
+
+
+    </div>
+  </div>
+
+  </div>
+
+				</div>
+			
+					</div>
+	</div>
+</div>
+
+				</div>
+			</div>
+
+			
+						
+		</div>
+	</div>
+
+	
+<footer id="footer" class="footer">
+  <div class="footer-inner">
+    
+         
+     <div class="footer-center">
+        <div class="container">      
+           <div class="row">
+                              <div class="footer-first col-xl-4 col-lg-4 col-md-12 col-sm-12 col-xs-12 footer-column">
+                    <div>
+    <div id="block-footerabout" class="block block-block-content block-block-content7da38301-272f-4979-8de1-06b564010f17 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2 class="block-title"><span>DFFE</span></h2>
+<p class="margin-bottom-10">We as humanity continue to consume the earths’ resources at ever increasing and unsustainable rates.</p>
+<div class="contact-info margin-bottom-10">
+    <ul class="list-style-one">        
+                 <li  class="margin-bottom-0">
+			<span class="text-theme">PHONE</span><br>
+			<a href="tel:+27861112468">+27 86 111 2468</a>
+		</li>
+		<li>
+			<span class="text-theme">EMAIL</span><br>
+			<a href="mailto:callcentre@dffe.gov.za">callcentre@dffe.gov.za</a>
+		</li>
+    </ul>
+</div>
+<div class="socials-1 clearfix">
+<a class="icon-twitter" href="https://twitter.com/environmentza " target="_blank"><span class="fab fa-twitter-square"></span></a>
+<a class="icon-facebook" href="https://www.facebook.com/TheDFFE/" target="_blank"><span class="fab fa-facebook-square"></span></a>
+<a class="icon-linkedin" href="https://www.linkedin.com/login" target="_blank"><span class="fab fa-linkedin"></span></a>
+<a class="icon-youtube" href="https://www.youtube.com/user/EnvironmentZA " target="_blank"><span class="fab fa-youtube"></span></a>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                             <div class="footer-second col-xl-2 col-lg-2 col-md-12 col-sm-12 col-xs-12 footer-column">
+                    <div>
+    <div id="block-explore" class="block block-block-content block-block-contentf68ff84d-6af0-4c49-8b85-ae338addc541">
+  
+      <h2 class="block-title" ><span>Explore</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="menu"><li><a href="/about-website">About the website</a></li><li><a href="/terms-use">Terms of use</a></li><li><a href="/sitemap">Sitemap</a></li><li><a href="/links">Links</a></li><li><a href="/legislation/paia_popia">PAIA</a></li><li><a href="http://edms.environment.gov.za/ " target="_blank">EDMS</a></li><li><a href="https://mobilemail.environment.gov.za/owa" target="_blank">Outlook</a></li></ul></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                              <div class="footer-third col-xl-3 col-lg-3 col-md-12 col-sm-12 col-xs-12 footer-column">
+                    <div>
+    <div id="block-contactinfo" class="block block-block-content block-block-contenta797b17b-ab2a-4881-ba24-171bee4f4fe8">
+  
+      <h2 class="block-title" ><span>Contact us</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="contact-info">
+    <ul class="list-style-one">        
+		<li>
+			
+			Environment House, <br>Cnr. Steve Biko (previously Beatrix Street) and Soutpansberg Road, <br>473 Steve Biko, <br>Arcadia, <br>Pretoria, 0083  <br>South Africa
+		</li>    
+    </ul>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                               <div class="footer-four col-xl-3 col-lg-3 col-md-12 col-sm-12 col-xs-12 footer-column">
+                    <div>
+    <div id="block-follow" class="block block-block-content block-block-content6236d949-f8d0-4f04-9ba4-b6d0a7af4967">
+  
+      <h2 class="block-title" ><span>Map</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d57503.833362048324!2d28.202836!3d-25.737858!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xadf430fc6e834d5c!2sDepartment%20of%20Environmental%20Affairs!5e0!3m2!1sen!2sza!4v1637327713282!5m2!1sen!2sza" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+                         </div>   
+        </div>
+    </div>  
+  </div>   
+
+      <div class="copyright">
+      <div class="container">
+        <div class="copyright-inner">
+              <div>
+    <div id="block-gavias-nextin-copyright" class="block block-block-content block-block-content61f17841-749f-436d-9799-1dfeefd7ad43 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="text-center">Copyright © 2024 Department of Forestry, Fisheries and the Environment.</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+        </div>   
+      </div>   
+    </div>
+    <a id="back-to-top" href="#" data-target="html" class="scroll-to-top" style="display: inline;"><i class="fa fa-angle-up"></i></a> 
+</footer>
+</div>
+
+  <div class="gva-quick-side quick-side">
+   <div class="side-content">
+       <div class="content-inner">
+         <a href="#" class="quick-side-close"><i class="fa fa-times"></i></a>
+           <div>
+    <div id="block-gavias-nextin-about" class="block block-block-content block-block-content6d5ade86-9d5b-4f7d-8df0-eab5c3d27e0c">
+  
+      <h2 class="block-title" ><span>About</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">We are professional and reliable provider since we offer customers the most powerful and beautiful themes. Besides, we always catch the latest technology and adapt to follow world’s new trends to deliver the best themes to the market.</div>
+      
+    </div>
+  </div>
+<nav aria-labelledby="block-menusecond-menu" id="block-menusecond" class="block block-menu navigation menu--menu-second">
+    
+  
+  <h2  id="block-menusecond-menu" class="block-title"><span>Menu</span></h2>
+  
+  <div class="block-content">
+                 
+<div class="gva-navigation">
+
+              <ul  class="gva_menu gva_menu_main">
+      
+                              
+            <li  class="menu-item">
+        <a href="http://hyd.gpinfotech.com:8082/env/">          home        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="">          Events        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="">          Careers        </a>
+          
+              </li>
+        </ul>
+  
+
+</div>
+
+
+        </div>  
+</nav>
+<div id="block-howcanwehelpyou" class="block block-block-content block-block-contentf41634fc-4c30-48a7-b5c2-c3e4709c65f1 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="contact-link">
+  <div class="title">How can we help you ?</div>
+  <div class="desc">Contact our Drupal gurus via our support channel</div>
+  <div class="action"><a class="btn-white" href="#">Contact us</a></div>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+       </div>  
+   </div>
+  </div>
+
+  </div>
+
+    
+    <script src="/modules/google_analytics/js/google_analytics.js?v=9.5.10"></script>
+<script src="/modules/gavias_pagebuilder/vendor/skrollr.min.js?v=1.x"></script>
+<script src="/modules/gavias_pagebuilder/vendor/main.js?v=1.x"></script>
+
+    
+        <div id="gva-overlay"></div>
+  </body>
+</html>
